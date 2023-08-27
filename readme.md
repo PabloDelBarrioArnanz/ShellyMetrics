@@ -5,6 +5,6 @@ This application is responsible for scraping the Shelly controller located on th
 
 Then, if we got it deployed with a Prometheus and Grafana services, we can illustrate the electric production and consumption.
 
-See example below.
+Example below.
 
 ![Example](example.png)
